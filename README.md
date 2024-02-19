@@ -18,3 +18,7 @@ If "beej project" is a specific project or term that has emerged after my last u
 ![beej11](https://github.com/Nallanavya/beejpro/assets/157112441/25423082-0237-4c9d-a277-e3784a895585)
 ![beej12](https://github.com/Nallanavya/beejpro/assets/157112441/b174354b-08cf-4e39-8255-f565be7ec096)
 ![beej13](https://github.com/Nallanavya/beejpro/assets/157112441/bb1e415b-c409-45cd-90c2-150e4a1e05cb)
+
+## Technologies
+HTML
+CSS
